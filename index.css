@@ -1,0 +1,66 @@
+#title {
+  text-align: center;
+  font-size: 25px;
+  font-family: cursive;
+}
+
+#navbar {
+  position: fixed;
+  min-width: 290px;
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 100%;
+  border-right: solid;
+}
+
+#ul {
+  background-color: #ADD8E6;
+  height: 88%;
+  padding: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#navbar li {
+  list-style: none;
+  position: relative;
+  width: 100%;
+}
+
+#Zion_National_Park {
+  
+}
+
+#Bryce_Canyon_National_Park {
+  margin-top: 50px;
+}
+
+#Capitol_Reef_National_Park {
+  margin-top: 50px;
+}
+
+#Canyonlands_National_Park {
+  margin-top: 50px;
+}
+
+#Arches_National_Park {
+  margin-top: 50px;
+}
+
+a {
+  display: block;
+  padding: 10px 30px;
+  text-decoration: none;
+  color: black;
+  font-family: cursive;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+#main-doc {
+  position: absolute;
+  margin-left: 310px;
+  padding: 20px;
+  margin-bottom: 110px;
+}
