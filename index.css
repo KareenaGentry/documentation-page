@@ -16,20 +16,13 @@
 
 #ul {
   background-color: #ADD8E6;
-  height: 88%;
-  padding: 0;
-  overflow-y: auto;
-  overflow-x: hidden;
+  height: 100%;
 }
 
 #navbar li {
   list-style: none;
   position: relative;
   width: 100%;
-}
-
-#Zion_National_Park {
-  
 }
 
 #Bryce_Canyon_National_Park {
@@ -61,6 +54,4 @@ a {
 #main-doc {
   position: absolute;
   margin-left: 310px;
-  padding: 20px;
-  margin-bottom: 110px;
 }
